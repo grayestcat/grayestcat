@@ -1,4 +1,4 @@
-### Welcome to greyestcat profile
+<!-- ### Welcome to greyestcat profile
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Profile Stats:
+Profile Stats: -->
 ![](https://komarev.com/ghpvc/?grayestcat&style=for-the-badge)
