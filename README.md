@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ![](https://komarev.com/ghpvc/?username=grayestcat&style=flat-square)
-![](https://komarev.com/ghpvc/?grayestcat&style=flat)
+![](https://komarev.com/ghpvc/?username=grayestcat&style=flat)
