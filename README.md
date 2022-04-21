@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 
 Profile Stats:
 [![Contributors][contributors-shield]][contributors-url]
-[![Profile views][views-shield]][views-url]
 -->
