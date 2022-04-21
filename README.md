@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Profile Stats:
-[![Contributors][contributors-shield]][contributors-url]
+![](https://komarev.com/ghpvc/?username=grayestcat)
 -->
