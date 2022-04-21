@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Profile Stats: -->
-![](https://komarev.com/ghpvc/?grayestcat&style=for-the-badge)
+![](https://komarev.com/ghpvc/?grayestcat&style=flat)
